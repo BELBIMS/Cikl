@@ -8,7 +8,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.view.Menu;
 
-import com.example.zhiznenii.R;
+import com.example.cikl.R;
 
 public class MainActivity extends Activity {
 
@@ -91,5 +91,5 @@ public class MainActivity extends Activity {
         ((TextView) findViewById(R.id.txt_counter)).setText(count.toString());
         Log.d(TAG, "resetUI");
         Toast.makeText(this, "findViewById()", Toast.LENGTH_LONG).show();
-    }
+    }}
 
