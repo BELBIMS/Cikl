@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">cikl</string>
+    <string name="app_name">Подсчет пуджов</string>
+    <string name="pudj">Всего пуджов</string>
+    <string name="add_pudj">Добавить пуджа</string>
 </resources>
